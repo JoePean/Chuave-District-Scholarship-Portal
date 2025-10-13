@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chuave.Scholarship.Api.props" />
+</Project>

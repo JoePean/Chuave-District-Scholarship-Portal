@@ -1,0 +1,14 @@
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\obj\Debug\net8.0-windows\Chuave.Scholarship.ClientWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\obj\Debug\net8.0-windows\Chuave.Scholarship.ClientWinForms.AssemblyInfoInputs.cache
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\obj\Debug\net8.0-windows\Chuave.Scholarship.ClientWinForms.AssemblyInfo.cs
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\obj\Debug\net8.0-windows\Chuave.Scholarship.ClientWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\bin\Debug\net8.0-windows\Chuave.Scholarship.ClientWinForms.exe
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\bin\Debug\net8.0-windows\Chuave.Scholarship.ClientWinForms.deps.json
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\bin\Debug\net8.0-windows\Chuave.Scholarship.ClientWinForms.runtimeconfig.json
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\bin\Debug\net8.0-windows\Chuave.Scholarship.ClientWinForms.dll
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\bin\Debug\net8.0-windows\Chuave.Scholarship.ClientWinForms.pdb
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\obj\Debug\net8.0-windows\Chuave.Scholarship.ClientWinForms.dll
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\obj\Debug\net8.0-windows\refint\Chuave.Scholarship.ClientWinForms.dll
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\obj\Debug\net8.0-windows\Chuave.Scholarship.ClientWinForms.pdb
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\obj\Debug\net8.0-windows\Chuave.Scholarship.ClientWinForms.genruntimeconfig.cache
+C:\Users\ABLE VALUED CLIENT\Documents\chuave-scholarship-system\frontend\Chuave.Scholarship.ClientWinForms\obj\Debug\net8.0-windows\ref\Chuave.Scholarship.ClientWinForms.dll

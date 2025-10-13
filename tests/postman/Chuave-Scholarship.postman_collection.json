@@ -1,0 +1,38 @@
+{
+  "info": {
+    "name": "Chuave-Scholarship",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Auth - Login (Admin)",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": "{{baseUrl}}/api/auth/login",
+        "body": {
+          "mode": "raw",
+          "raw": "{\"email\": \"admin@chuave.gov.pg\", \"password\": \"Admin!234\"}"
+        }
+      }
+    },
+    {
+      "name": "Scholarships - List",
+      "request": {
+        "method": "GET",
+        "url": "{{baseUrl}}/api/scholarships"
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:5145"
+    }
+  ]
+}
